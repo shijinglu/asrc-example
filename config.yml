@@ -2,3 +2,7 @@ logging:
   level: INFO
   loggers:
     org.shijinglu: DEBUG
+
+template: Hello, %s!
+
+formulaDir: /tmp/formulas/asrc-yaml-examples/main/

@@ -1,0 +1,8 @@
+org/shijinglu/asrc/service/resources/SayHello.class
+org/shijinglu/asrc/service/utils/Mapper.class
+org/shijinglu/asrc/service/health/NaiveHealthCheck.class
+org/shijinglu/asrc/service/resources/RemoteConfig.class
+org/shijinglu/asrc/service/MainApp.class
+org/shijinglu/asrc/service/api/GetConfigRequest.class
+org/shijinglu/asrc/service/api/Saying.class
+org/shijinglu/asrc/service/MainConfiguration.class
