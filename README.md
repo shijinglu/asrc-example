@@ -1,4 +1,4 @@
-# A Dropwizzard Service that Demonstrates How
+# A Dropwizzard App of Remote Configuration
 
 How to start the application
 ---
